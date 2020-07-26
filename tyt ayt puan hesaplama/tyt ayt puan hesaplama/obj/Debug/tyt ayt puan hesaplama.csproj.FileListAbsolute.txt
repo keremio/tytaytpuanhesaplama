@@ -1,0 +1,10 @@
+C:\Users\Kerem Yakutlu\source\repos\tyt ayt puan hesaplama\tyt ayt puan hesaplama\bin\Debug\tyt ayt puan hesaplama.exe.config
+C:\Users\Kerem Yakutlu\source\repos\tyt ayt puan hesaplama\tyt ayt puan hesaplama\bin\Debug\tyt ayt puan hesaplama.exe
+C:\Users\Kerem Yakutlu\source\repos\tyt ayt puan hesaplama\tyt ayt puan hesaplama\bin\Debug\tyt ayt puan hesaplama.pdb
+C:\Users\Kerem Yakutlu\source\repos\tyt ayt puan hesaplama\tyt ayt puan hesaplama\obj\Debug\tyt ayt puan hesaplama.csprojAssemblyReference.cache
+C:\Users\Kerem Yakutlu\source\repos\tyt ayt puan hesaplama\tyt ayt puan hesaplama\obj\Debug\tyt_ayt_puan_hesaplama.Form1.resources
+C:\Users\Kerem Yakutlu\source\repos\tyt ayt puan hesaplama\tyt ayt puan hesaplama\obj\Debug\tyt_ayt_puan_hesaplama.Properties.Resources.resources
+C:\Users\Kerem Yakutlu\source\repos\tyt ayt puan hesaplama\tyt ayt puan hesaplama\obj\Debug\tyt ayt puan hesaplama.csproj.GenerateResource.cache
+C:\Users\Kerem Yakutlu\source\repos\tyt ayt puan hesaplama\tyt ayt puan hesaplama\obj\Debug\tyt ayt puan hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Kerem Yakutlu\source\repos\tyt ayt puan hesaplama\tyt ayt puan hesaplama\obj\Debug\tyt ayt puan hesaplama.exe
+C:\Users\Kerem Yakutlu\source\repos\tyt ayt puan hesaplama\tyt ayt puan hesaplama\obj\Debug\tyt ayt puan hesaplama.pdb
